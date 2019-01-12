@@ -1,0 +1,331 @@
+Cmp-Mod V01 Created by PcbNew   date = Wednesday, January 31, 2018 'PMt' 03:05:28 PM
+
+BeginCmp
+TimeStamp = 57CC8AE7
+Path = /57CC67E9
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57CC8AED
+Path = /57CC5F63
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57CC8AF3
+Path = /57CC67BB
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57CC8AF9
+Path = /57CC5F42
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57CC8AFF
+Path = /57CC5F1B
+Reference = C5;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57CC8B05
+Path = /57CC6840
+Reference = C6;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57CC8B0B
+Path = /57CC68F5
+Reference = C7;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57CC8B21
+Path = /57CC6A38
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57CC8B27
+Path = /57CC956F
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57CC8B39
+Path = /57CC8FC7
+Reference = R5;
+ValeurCmp = 130R;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57CC8B74
+Path = /57CC5D36
+Reference = U1;
+ValeurCmp = rfd_77101;
+IdModule  = OpenBCI:RFD77101;
+EndCmp
+
+BeginCmp
+TimeStamp = 57CC8B86
+Path = /57CC5CEE
+Reference = U2;
+ValeurCmp = MAX30100;
+IdModule  = Solutions:MAX30100;
+EndCmp
+
+BeginCmp
+TimeStamp = 57CE131A
+Path = /57CDCC34
+Reference = C8;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57CE1320
+Path = /57CDCEC9
+Reference = C9;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57CE13FF
+Path = /57CDC59B
+Reference = U3;
+ValeurCmp = NCP551;
+IdModule  = TO_SOT_Packages_SMD:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 580E6E45
+Path = /580BE3C7
+Reference = BT1;
+ValeurCmp = Battery;
+IdModule  = OpenBCI:JST_RA_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = 580E6E4B
+Path = /580BBC08
+Reference = C10;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 580E6E51
+Path = /580BE851
+Reference = D2;
+ValeurCmp = D_Schottky;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 580E6E75
+Path = /588D214D
+Reference = Q2;
+ValeurCmp = Q_NMOS_GSD;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 580E6E88
+Path = /582A3912
+Reference = R7;
+ValeurCmp = 1M;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 580E6E8E
+Path = /582A39C7
+Reference = R8;
+ValeurCmp = 1M;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 580E6E94
+Path = /588D2805
+Reference = R9;
+ValeurCmp = 10K;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 580E6E9A
+Path = /588D2973
+Reference = R10;
+ValeurCmp = 10K;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 580E6EA0
+Path = /588D2A0C
+Reference = R11;
+ValeurCmp = 10K;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5814C2D5
+Path = /5814C081
+Reference = R12;
+ValeurCmp = 30R;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 581E2CB8
+Path = /580D0209
+Reference = U4;
+ValeurCmp = BMI160;
+IdModule  = Solutions:LGA_2.5x3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5820AF6D
+Path = /5820EBA5
+Reference = C11;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5820AF75
+Path = /5820CD7B
+Reference = D3;
+ValeurCmp = Dialight_R_G_LED;
+IdModule  = Solutions:0606_Bi-Color;
+EndCmp
+
+BeginCmp
+TimeStamp = 5820AF8A
+Path = /5820D49F
+Reference = R13;
+ValeurCmp = 470;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5820AF90
+Path = /5820E636
+Reference = R14;
+ValeurCmp = 10K;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5820AF96
+Path = /5820D304
+Reference = R15;
+ValeurCmp = 470;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5820AF9F
+Path = /5820D17F
+Reference = U5;
+ValeurCmp = MCP73831;
+IdModule  = TO_SOT_Packages_SMD:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5820AF84
+Path = /5820D5B3
+Reference = P2;
+ValeurCmp = USB_OTG;
+IdModule  = Solutions:10118193_microUSB;
+EndCmp
+
+BeginCmp
+TimeStamp = 588CF112
+Path = /588CF248
+Reference = C12;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588CF118
+Path = /588CF2DB
+Reference = C13;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588CF119
+Path = /588D61A5
+Reference = D1;
+ValeurCmp = Led_RGB_CA;
+IdModule  = Solutions:CLMVB-FKA-CFHEHLCBB7a363;
+EndCmp
+
+BeginCmp
+TimeStamp = 588CF120
+Path = /588D9B00
+Reference = P1;
+ValeurCmp = CONN_01X10;
+IdModule  = Solutions:4u-0201GDVE06;
+EndCmp
+
+BeginCmp
+TimeStamp = 588CF133
+Path = /588D20B4
+Reference = Q3;
+ValeurCmp = Q_NMOS_GSD;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 588CF139
+Path = /588D2AA2
+Reference = R16;
+ValeurCmp = 10K;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588CF13F
+Path = /588D67A6
+Reference = R17;
+ValeurCmp = 30R;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588CF148
+Path = /588CF131
+Reference = U6;
+ValeurCmp = NCP551;
+IdModule  = TO_SOT_Packages_SMD:SOT-23-5;
+EndCmp
+
+EndListe
