@@ -20,7 +20,7 @@
     (34 B.Paste user)
     (35 F.Paste user)
     (36 B.SilkS user hide)
-    (37 F.SilkS user hide)
+    (37 F.SilkS user)
     (38 B.Mask user hide)
     (39 F.Mask user hide)
     (40 Dwgs.User user hide)
@@ -36,7 +36,7 @@
   )
 
   (setup
-    (last_trace_width 0.2032)
+    (last_trace_width 0.25)
     (user_trace_width 0.18)
     (user_trace_width 0.2)
     (user_trace_width 0.2032)
@@ -401,8 +401,8 @@
   (module Solutions:RFD77101 (layer F.Cu) (tedit 5C3A758A) (tstamp 5C9E7234)
     (at 143.94088 91.19386)
     (path /57CC5D36)
-    (fp_text reference U1 (at -4.8 -4.575) (layer F.SilkS)
-      (effects (font (size 0.75 0.75) (thickness 0.15)) (justify mirror))
+    (fp_text reference U1 (at -4.75 -4.775) (layer F.SilkS)
+      (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
     (fp_text value rfd_77101 (at 0 6.5) (layer F.Fab)
       (effects (font (size 0.75 0.75) (thickness 0.15)))
