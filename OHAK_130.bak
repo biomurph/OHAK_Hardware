@@ -280,7 +280,7 @@ F 3 "" H 7500 2250 50  0000 C CNN
 $EndComp
 Text Label 4900 3950 0    60   ~ 0
 MAX_INT
-Text Label 5700 4150 0    60   ~ 0
+Text Label 4900 4550 0    60   ~ 0
 R_LED
 Text Notes 3750 900  0    60   ~ 0
 POWER SUPPLY
@@ -408,9 +408,9 @@ Text Label 4900 4050 0    60   ~ 0
 BMI_INT1
 Text Label 4900 4150 0    60   ~ 0
 BMI_INT2
-Text Label 5700 4250 0    60   ~ 0
+Text Label 4900 4750 0    60   ~ 0
 B_LED
-Text Label 5700 4050 0    60   ~ 0
+Text Label 4900 4650 0    60   ~ 0
 G_LED
 $Comp
 L Device:R R12
