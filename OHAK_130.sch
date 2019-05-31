@@ -219,7 +219,7 @@ L Device:R R2
 U 1 1 57CC956F
 P 6650 7500
 F 0 "R2" V 6730 7500 50  0000 C CNN
-F 1 "10K" V 6650 7500 50  0000 C CNN
+F 1 "4K7" V 6650 7500 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0402" V 6580 7500 50  0001 C CNN
 F 3 "" H 6650 7500 50  0000 C CNN
 	1    6650 7500
@@ -1321,4 +1321,8 @@ Wire Wire Line
 	1900 1350 1900 1400
 Wire Wire Line
 	1900 1350 2400 1350
+Text Notes 6050 7250 0    60   ~ 0
+Change pullup connection to VDD
+Text Notes 700  4450 0    60   ~ 0
+center this LED\non the board
 $EndSCHEMATC
